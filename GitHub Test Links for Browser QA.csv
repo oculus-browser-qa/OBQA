@@ -1,0 +1,229 @@
+Section,Test Case,URL
+3D photos,,https://www.facebook.com/poorani.prabhakaran/posts/2044316965601303
+180/360 Photos,,m.facebook.com
+,Enter VR' from a Group Feed Post,facebook.com/Facebook360
+Address Bar,,badssl.com
+,Address bar controls work in different browser size,https://www.amazon.com/
+Audio,Audio is heard through earbuds when playing a youtube video,https://www.youtube.com/
+Deep linking,DEEP LINKING TO WEBVR page,https://artyom17.github.io/webvr.info/samples/03b-vr-navigation.html
+,Deep linking with return to caller,https://artyom17.github.io/webvr.info/samples/test-vr-links.html
+,Verify Apps can deep link to a url,https://www.facebook.com
+,Verify Apps can deep link to media with ovrweb://media,https://www.youtube.com/watch?v=-xNN-bJQ4vI
+,Verify Apps can deep link with default projection mode using ovrweb://media,https://www.youtube.com/watch?v=-xNN-bJQ4vI
+,Verify Apps can deep link to a search via ovrweb://search,https://www.google.com/search?source=hp&ei=JJChW6T6MdDAzgKqso-IBw&q=rick+roll&btnK=Google+Search&oq=rick+roll&gs_l=psy-ab.3..0j0i20i264j0i131j0l2j0i20i264j0l3j0i10.2139.3781..4031...1.0..0.259.1860.0j5j5......0....1..gws-wiz.....6..35i39j0i67j0i131i67.MM9JpcRY1jM
+,Apps can deep link to webvr via ovrweb://vr,https://artyom17.github.io/webvr.info/samples/03b-vr-navigation.html
+,,https://artyom17.github.io/webvr.info/samples/03b-vr-navigation.html
+Downloads,Verify User can resume paused download,https://www.dropbox.com/s/bu5cgbdskgs3pbw/20180817bd47313d6b5b9bc925fcd4d6621a3f2dacd15e1b668cf633a4df6954c404fe36%202.zip?dl=0
+,Verify User can click on an mp4 link and download the video,https://videos.pexels.com/
+,Verify Good error message for download of a broken link,https://www.dropbox.com/s/kzkslsh1n6o6spl/file.txt?dl=0
+,"Verify Icon indicates the type of download (picture, music, video, document)",https://www.dropbox.com/s/up2dqi06qzv0kz6/Sample%20Doc.docx?dl=0
+,"Verify Icon indicates the type of download (picture, music, video, document)",https://www.mp3juices.cc/
+,Verify that undocking the headset does not impede download progression.,https://m.apkpure.com/
+,"Verify Progress bar shows while downloading a file.
+Download different File Sizes",https://www.thinkbroadband.com/download
+,Download different File Types,https://sample-videos.com/
+Forms,Forms,https://getbootstrap.com/docs/4.0/components/forms/
+History,Verify browser user can clear large number of sites from browser history without issue,http://crashchrome.com
+Input,Verify browser works as expected when wifi not present,https://www.oculus.com/
+,Verify no Hardlock or Crash when quickly pressing the Back button on webpage while loading,https://artyom17.github.io/webvr.info/samples/test-vr-links.html
+Permissions,Verify that the system dialog allowing Browser access is not displayed after allowing the permission on the infobar on another site.,https://www.online-voice-recorder.com
+,Verify Write file permission,https://thiscouldbebetter.neocities.org/texteditor.html
+,,https://www.speakpipe.com/voice-recorder
+,Verify that the user is able to enable microphone permissions in the Mozilla conference site room.,https://hubs.mozilla.com/
+,Verify permission dialog that allows access to device location is displayed.,https://www.google.com/maps
+,Verify permission dialog that allows access to microphone is displayed.,https://permission.site
+,,http://talk.gg
+,"Verify if a permissions request flow is interrupted on a website, closing-out the page and re-opening it re-triggers a permissions request.",https://voice.mozilla.org
+Infobars,Verify Multiple download infobar is shown with allow/cancel,https://sindresorhus.com/multi-download/
+,Verify Confirm infobar is shown with Ok/Cancel,www.pexels.com
+Permission Manager,Verify that the site security icon(green lock) is displayed in the URL address bar.,https://www.instagram.com/
+,Verify that geolocation is displayed in the Permission Manager dialog.,https://www.google.com/maps
+,Verify the tool tip shows 'View Site Information' when hovering the mouse over the site security icon to the left of the address bar,http://facebook.com/
+,Verify that the permissions manager is displayed when selecting the site security icon to the left of the URL address bar.,https://www.amazon.com/
+,Verify the permissions manager closes when clicking outside of the permission manager,http://oculus.com/
+,Verify the Permission manager dialog shows the url of the website at the top,http://cnn.com/
+,"Verify the Permission manager dialog shows the permission requested by the site listed with dropdown options - Ask, Allow, Block",http://ebay.com/
+,Verify the permission dropdown options are highlighted with Blue colour while hovering on it,http://google.com/
+,Verify the permissions are enabled by going to https://permission.site,https://online-voice-recorder.com/
+,,https://permission.site/
+,Verify that Location Access is displayed in the Permission Manager dialog,https://online-voice-recorder.com/
+,,http://maps.google.com/
+,Verify site security icon does not appear when navigating to a unsecure website,http://espn.com/
+,Verify that Automatic Downloads is displayed in the Permission Manager dialog,https://www.dropbox.com/sh/tm15zat3xhyi2j6/AAAFZSyvT7EfTBnk5CKod9UVa?dl=0
+Projection Modes,YouTube Playlist,https://www.youtube.com/playlist?list=PLaDEkyVEwhMu4xhpG6cWbTDR3F-_4qpNk
+,Verify that 180 mono projection works.,https://www.youtube.com/watch?v=wp7WiBWxDok&t=5s
+,Verify that 180 stereo projection works.,https://www.youtube.com/watch?v=xes9trgy9jw
+,Verify that 360 mono projection works,https://www.youtube.com/watch?v=aiz1_qLIvVk
+,Verify that 360 stereo projection works,https://www.youtube.com/watch?v=RQpTco5gog4
+,Verify that 3D video supports all formats of 360 video.,https://www.youtube.com/watch?v=-xNN-bJQ4vI
+,Verify 360 Videos on YouTube can play in all resolutions without graphical black hole in top/bottom center of screen,https://www.youtube.com/watch?v=k8Yyl84QsBg
+Site Compat,Carmel can open all top 50 ranked sites:,alexa.com/topsites/countries/US
+,WebVR samples,https://webvr.info/samples/
+,"Verify on resource demanding sites, that all movement is smooth",https://RobertsSpaceIndustries.com/starmap/
+,Verify user can click outside the keyboard in mobile youtube search page,in.youtube.com
+,,jp.youtube.com
+,Verify User can launch all popular Media Sites,news.google.com
+,Verify User can launch all popular Japan Sites and play videos using NordVPN,https://nordvpn.com/download/android/
+Tabs,Verify pages with animation restart when given focus,https://artyom17.github.io/webvr.info/mv/WebGL2-instancing-cubes.html
+Video,Verify User can play video in WebVR,https://playcanv.as/p/G0d8FneG/
+,Verify User is able play H265 format videos in Oculus Browser,http://www.h265files.com/embed-h265-video.php
+,,http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/mux_sources/hevcds_1080p60_Main10_8M.mp4
+,,http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/
+,Verify Browser's Youtube battery drain,https://youtu.be/nhwHZAEb7FI
+,Projection modes,https://www.youtube.com/playlist?list=PLaDEkyVEwhMu4xhpG6cWbTDR3F-_4qpNk&disable_polymer=true
+Web of Lies,Verify that the user is able to watch m.spotify.com in desktop and mobile modes.,m.spotify.com
+,Verify that the user is able to watch spotify.com in desktop and mobile modes.,spotify.com
+,Verify that the user is able to watch Twitch in desktop and mobile modes.,https://www.twitch.tv/
+,Verify that the user is able to watch Imgur in desktop and mobile modes.,https://imgur.com/
+,Verify that the user is able to watch tv.youtube.com in desktop and mobile modes.,https://tv.youtube.com/welcome/
+,Verify that the user is able to watch m.youtube.com in desktop and mobile modes.,https://m.youtube.com
+,Verify that the user is able to watch primevideo.com in desktop and mobile modes.,primevideo.com
+,Verify that the user is able to watch www.primevideo.com in desktop and mobile modes.,www.primevideo.com
+,Verify that the user is able to watch amazon.co.jp in desktop and mobile modes.,amazon.co.jp
+,,https://nordvpn.com/download/android/
+,Verify that the user is able to watch www.amazon.co.jp in desktop and mobile modes.,www.amazon.co.jp
+,Verify that the user is able to watch news.google.com in desktop and mobile modes.,news.google.com
+,Verify that the user is able to watch abema.tv in desktop and mobile modes.,https://abema.tv/
+,Verify that the user is able to watch www.dazn.com in desktop and mobile modes.,www.dazn.com
+,Verify that the user is able to watch watch.dazn.com in desktop and mobile modes.,watch.dazn.com
+,Verify that the user is able to watch anime.dmkt-sp.jp in desktop and mobile modes.,anime.dmkt-sp.jp
+,Verify that the user is able to watch pc.video.dmkt-sp.jp in desktop and mobile modes.,https://pc.video.dmkt-sp.jp/
+,Verify that the user is able to watch www.paravi.jp in desktop and mobile modes.,www.paravi.jp
+,Verify that the user is able to watch tver.jp in desktop and mobile modes.,tver.jp
+,Verify that the user is able to watch www.tver.jp in desktop and mobile modes.,www.tver.jp
+,Verify that the user is able to watch agar.io in desktop and mobile modes.,agar.io
+,Verify that the user is able to watch play.hbogo.com in desktop and mobile modes.,play.hbogo.com
+,Verify that the user is able to watch www.hbogo.com in desktop and mobile modes.,www.hbogo.com
+,Verify that the user is able to watch play.hbonow.com in desktop and mobile modes.,play.hbonow.com
+,Verify that the user is able to watch www.hbonow.com in desktop and mobile modes.,www.hbonow.com
+WebVR,ENTERING / LEAVING VR BY USER,https://artyom17.github.io/webvr.info/samples/03-vr-presentation.html
+,LEAVING VR BY WebVR API,https://artyom17.github.io/webvr.info/samples/test-leavevr.html
+,NAVIGATION TO 2D page FROM WEBVR,https://artyom17.github.io/webvr.info/samples/test-vr-links.html
+,NAVIGATION TO VR page FROM WEBVR,https://artyom17.github.io/webvr.info/samples/test-vr-links.html
+,,https://aframe.io/aframe/examples/showcase/link-traversal/
+,Verify GearVR controller works with A-Frame within WebVR,https://aframe.io/aframe/examples/test/laser-controls/
+,,https://artyom17.github.io/webvr.info/samples/03-vr-presentation-webvr10.html
+,Verify you can exit VR using the headset back button,https://artyom17.github.io/webvr.info/samples/test-leavevr.html
+,Verify projection matrices,https://artyom17.github.io/webvr.info/samples/05-room-scale.html
+,Verify that pressing the Oculus(Home) Button takes User to the Universal Exit Menu while in a WebVR experience.,https://chromatic.funktroniclabs.com/
+,"Verify Use is able to URL, enter VR by pressing “Enter VR” button.",https://artyom17.github.io/webvr.info/samples/XX-vr-controllers.html
+Dynamic Resolution,,https://artyom17.github.io/webvr.info/samples/08-dynamic-resolution.html
+,,https://artyom17.github.io/webvr.info/samples/08b-dynamic-resolution-2.html
+,,https://artyom17.github.io/webvr.info/samples/08c-dynamic-resolution-3.html
+,,https://artyom17.github.io/webvr.info/samples/08d-dynamic-resolution-4.html
+,,https://artyom17.github.io/webvr.info/samples/FoveationVisualTest.html
+VR Audio,,https://artyom17.github.io/webvr.info/samples/06-vr-audio.html
+,"WebVR should allow media to autoplay in WebVR w/o user interaction. Load the page, enter VR (a button at bottom right), wait 5 secs.",https://artyom17.github.io/webvr.info/samples/AutoVideoPlay.html
+GAMEPAD,Test any Bluetooth Gamepad,https://artyom17.github.io/webvr.info/samples/XX-gamepads.html
+WEBVR 1.o compatibility,"Go to the link(s), enter VR, look around, exit VR.",https://artyom17.github.io/webvr.info/samples/03-vr-presentation-webvr10.html
+,,https://patches.vizor.io/christate/niceberg
+Mutiview Extension Mode,,https://artyom17.github.io/webvr.info/mv/vr-presentation-webgl1.html
+,,https://artyom17.github.io/webvr.info/mv/vr-presentation.html
+,,https://artyom17.github.io/webvr.info/mv/dynamic-resolution.html
+,,https://artyom17.github.io/three.js-multiview/examples/webvr_multiview.html
+,,https://artyom17.github.io/webvr.info/mv/WebGL2-instancing-cubes.html
+Drawing Buffer,Verify preserveDrawingBuffer is respected by WebVR rendering for non-Multiview,https://artyom17.github.io/webvr.info/samples/test-preserveDrawingBuffer.html
+Testing different experiences,Delight VR,http://clients.xymatic.com/oculus/
+,Jumanji 360,http://www.jumanji360.com/
+,National Gallery,https://vizor.io/nationalgallery/ng/
+,BB8,https://bb8a.surge.sh/
+,BBALL,https://bball.surge.sh/brooklyn-nets
+,Chromatic,https://chromatic.funktroniclabs.com/
+,Iceberg(THREE.js),https://patches.vizor.io/christate/niceberg
+,,https://vizor.io/christate/niceberg
+,threes,https://mrdoob.com/
+,Soundboxing,https://webvr.soundboxing.co/
+Reorient,Enter WebVR Experience and Reorient,https://artyom17.github.io/webvr.info/samples/XX-vr-controllers.html
+,A-Frame,https://aframe.io/aframe/examples/test/laser-controls/
+,Verify that the user can enter VR on the A-Frame examples listed.,https://aframe.io/
+,WebVR,https://artyom17.github.io/webvr.info/samples/XX-vr-controllers.html
+Multiview Extension mode,,https://artyom17.github.io/webvr.info/mv/vr-presentation-webgl1.html
+,VR Presentation,https://artyom17.github.io/webvr.info/mv/vr-presentation.html
+,Ensure user can enter and exit from VR when viewing Dynamic Resolution without issues,https://artyom17.github.io/webvr.info/mv/dynamic-resolution.html
+,Web VR Multiview,https://artyom17.github.io/three.js-multiview/examples/webvr_multiview.html
+,Web GL2 - Instancing Cubes,https://artyom17.github.io/webvr.info/mv/WebGL2-instancing-cubes.html
+,Enable multiview by default as OVR_multiview,https://artyom17.github.io/webvr.info/mv/vr-presentation-webgl1.html
+,Verify that the second WebTask deeplink is displayed correctly.,https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_target
+Adult Pages,,www.pornhub.com
+,,vrporn.com
+,,m.xhamster.com
+,,www.xvideos.com
+,,www.pornhubpremium.com
+,,jp.pornhub.com
+,,www.xnxx.com
+,,vrsumo.com
+,,m.vrsmash.com
+,,www.youporn.com
+,,m.spankbang.com
+,,www.sexlikereal.com
+,,de.pornhub.com
+,,members.naughtyamerica.com
+,,www.wankzvr.com
+,,fr.pornhub.com
+,,badoinkvr.com
+,,avgle.com
+,,m.chaturbate.com
+,,vrbangers.com
+,,de.m.xhamster.com
+,,virtualrealporn.com
+,,www.redtube.com
+,,www.laidhub.com
+,,es.pornhub.com
+,,fr.m.xhamster.com
+,,www.czechvrnetwork.com
+,,kissanime.ru
+,,xxxreal.com
+,,www.porntrex.com
+,,nl.pornhub.com
+,,www.sexvr.com
+,,http://yourporn.sexy/
+Top 50,,www.google.com
+,,https://www.youtube.com/
+,,https://www.facebook.com/
+,,https://www.amazon.com/
+,,https://www.wikipedia.org/
+,,Reddit.com
+,,Twitter.com
+,,Yahoo.com
+,,Linkedin.com
+,,Instagram.com
+,,Netflix.com
+,,Ebay.com
+,,https://www.twitch.tv/
+,,Microsoftonline.com
+,,Instructure.com
+,,Pornhub.com
+,,Live.com
+,,Imgur.com
+,,Craigslist.org
+,,Paypal.com
+,,Cnn.com
+,,Chase.com
+,,Espn.com
+,,https://t.co/
+,,Bing.com
+,,Imdb.com
+,,Pinterest.com
+,,Livejasmin.com
+,,Nytimes.com
+,,Weather.com
+,,Office.com
+,,Microsoft.com
+,,Github.com
+,,Hulu.com
+,,Intuit.com
+,,Stackoverflow.com
+,,Force.com
+,,Apple.com
+,,Zillow.com
+,,Fandom.com
+,,Salesforce.com
+,,Tumblr.com
+,,Yelp.com
+,,Bankofamerica.com
+,,Amazonaws.com
+,,Dropbox.com
+,,Walmart.com
+,,Wellsfargo.com
+,,Indeed.com
+,,Blogspot.com
